@@ -1,3 +1,5 @@
+![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+
 # The ColorMaster #
 
 This assignment will test, and help you better understand, the flow of control in Bash and Git.
